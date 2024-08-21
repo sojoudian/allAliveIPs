@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Network subnet
-subnet="10.0.0"
+# subnet="10.0.0"
+subnet="172.20.10"
 
 # Loop through all possible hosts in the subnet
 for i in $(seq 1 254); do
