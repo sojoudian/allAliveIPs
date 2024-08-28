@@ -22,7 +22,7 @@ func pingIP(ip string, wg *sync.WaitGroup, results chan<- string) {
 
 func main() {
 	// subnet := "10.0.0"
-	subnet := "172.20.10"
+	subnet := "172.20"
 	results := make(chan string, 254) // Buffered channel to hold results
 	var wg sync.WaitGroup
 
