@@ -1,0 +1,1 @@
+/Users/maziar/Library/Mobile\ Documents/com~apple~CloudDocs/Code/del/allAliveIPs/target/release/network_scanner: /Users/maziar/Library/Mobile\ Documents/com~apple~CloudDocs/Code/del/allAliveIPs/src/main.rs

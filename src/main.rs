@@ -29,7 +29,7 @@ fn ping_ip(ip: String) -> Option<String> {
 
 fn main() {
     //let subnet = "10.0.0";
-    let subnet = "172.20";
+    let subnet = "10.0.0";
     let results = Arc::new(Mutex::new(Vec::new()));
     let mut handles = vec![];
 
